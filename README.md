@@ -223,7 +223,7 @@ JOIN dw.Dim_Weather w ON f.weather_key = w.weather_key
 
 ## 🏆 **Contact & Credits**
 
-Developed by Khaled for advanced analytics and data warehousing education.
+Developed by Khaled for data warehouse project.
 
 ---
 
